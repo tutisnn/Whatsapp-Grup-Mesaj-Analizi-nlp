@@ -12,6 +12,7 @@ Bu proje, dört ana bölümden oluşmaktadır:
 ### 3. Metin Ön İşleme
 
 ### 4. Metin Görselleştirme
+##
 ![image](https://github.com/tutisnn/Whatsapp-Grup-Mesaj-Analizi/assets/139488248/bb182548-6250-4cc1-be7d-9a9228fc2cbc)
 ![image](https://github.com/tutisnn/Whatsapp-Grup-Mesaj-Analizi/assets/139488248/16254f41-5653-448f-97a8-2ceea1ce5188)
 ![image](https://github.com/tutisnn/Whatsapp-Grup-Mesaj-Analizi/assets/139488248/ad253e33-430c-4763-b2d9-23ee7627b41d)
