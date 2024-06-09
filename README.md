@@ -1,6 +1,6 @@
 # WhatsApp Grup Mesaj Analizi
 
-Bu proje, bir WhatsApp sohbet dökümanını analiz etmek ve çeşitli istatistikler ve görselleştirmeler üretmek için Python kullanarak geliştirilmiştir.
+Bu proje, Python kullanılarak geliştirilmiş olup bir WhatsApp sohbet dökümanını analiz etmek için doğal dil işleme (NLP) tekniklerini içerir. Proje, çeşitli istatistikler ve görselleştirmeler üretmek amacıyla tasarlanmıştır.
 ## İçerik
 
 Bu proje, dört ana bölümden oluşmaktadır:
